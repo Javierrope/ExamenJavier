@@ -21,6 +21,7 @@ public class suma {
 		
 		System.out.println("La suma de los números introducidos es " + (num1+num2));
 		
+		System.out.println("Nueva linea introducida para el ejercicio 3 ");
 	}
 
 }
